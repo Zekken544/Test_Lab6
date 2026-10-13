@@ -1,0 +1,11 @@
+From	To	Amount	Currency	Daily
+Valid	Valid	Negative	Same	Unused
+Valid	Valid	Normal	Different	PartUsed
+Valid	Valid	Zero	Same	Unused
+Valid	Valid	OverBalance	Same	Unused
+Frozen	Valid	Normal	Same	Unused
+Valid	Missing	Normal	Same	Unused
+Valid	SameAsFrom	Normal	Same	Unused
+Missing	Valid	Normal	Same	Unused
+Valid	Valid	Normal	Different	Unused
+Valid	Valid	OverLimit	Same	PartUsed
